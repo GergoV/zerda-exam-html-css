@@ -82,6 +82,9 @@ Add your answer to this readme file, commit your changes to this repository.
 ```
 #### Your answer: [2p]
 
+> The distance of the box's top left corner is 40px from the body's top left corner.
+> The body's padding and margin are reset to 0px.
+> The container box, .foo is 20px away from top-left, and the yellow box .bar is also 20px away; it adds up to 40px.
 
 ## 3. Explain concepts (~15 minutes) [4 points]
 Add your answer to this readme file, commit your changes to this repository.
