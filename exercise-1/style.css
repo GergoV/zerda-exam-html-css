@@ -1,8 +1,56 @@
 body {
   font-family: 'Arial', sans-serif;
-  font
+  margin: 36px 58px;
 }
 
-johndoe bg #fffff0
-janedoe bg #acb7e1
-border: #546294
+article {
+  display: flex;
+  width: 540px;
+  height: 180px;
+  margin-bottom: 20px;
+}
+
+.john-duck {
+  background-color: #fffff0;
+}
+
+.jane-duck {
+  background-color: #acb7e1;
+}
+
+.namecard {
+  flex-grow: 1;
+  position: relative;
+  font-size: 14px;
+  padding: 26px 20px 0px 20px;
+}
+
+h1 {
+  margin: 0px;
+  font-size: 28px;
+  font-weight: lighter;
+}
+
+table {
+  font-size: 14px;
+  text-align: left;
+  border: collapse;
+}
+
+td {
+  width: 50%;
+}
+
+img.portrait {
+  display: block;
+  width: 180px;
+  height: 180px;
+  border-right: 10px solid #546294;
+
+}
+
+img.edit-icon {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+}
