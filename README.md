@@ -93,6 +93,10 @@ Add your answer to this readme file, commit your changes to this repository.
 ### Explain the difference between `display: block` and `display: inline` in CSS! What is `display: inline-block`?
 #### Your answer: [2p]
 
+Block items take a whole row, while inline items come in the same line (hence the name) after one another.
+
+Inline-block has similar charactersitics to both. It is a block element but content flows around it as if it does with inline elements.
+
 
 ### What is the difference between a `<section>` and an `<article>` element? Name one good example of using an `<article>`.
 #### Your answer: [2p]
